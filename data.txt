@@ -1,0 +1,3 @@
+Name: Jacqueline Chen
+Age: 25
+Favorite color: Blue
